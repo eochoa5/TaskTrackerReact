@@ -1,0 +1,40 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Go to UPS Store",
+      "day": "Nov 18th at 1:00 PM",
+      "reminder": false
+    },
+    {
+      "id": 2,
+      "text": "Go to Walmart",
+      "day": "Nov 19th at 2:00 PM",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Job Interview",
+      "day": "Nov 20th at 11:00 AM",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "Go to airport",
+      "day": "Nov 21st at 11:00 AM",
+      "reminder": true
+    },
+    {
+      "id": 5,
+      "text": "Go to the gym",
+      "day": "Nov 22nd at 11:00 AM",
+      "reminder": false
+    },
+    {
+      "text": "Go to Los Angeles",
+      "day": "Jan 1 12:00 PM 2023",
+      "reminder": false,
+      "id": 6
+    }
+  ]
+}
